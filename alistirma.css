@@ -1,0 +1,40 @@
+h1 {
+    margin: 0 auto;
+    width:25%;
+    border-bottom: 2px solid rgba(86, 91, 92,0.435);
+    padding-bottom: 15px;
+    text-align:center;
+}
+
+
+div.image-container{
+    border:1px solid grey;
+}
+
+
+
+div.image-container:hover {
+    border: 2px solid rgb(41, 37, 37);
+    box-shadow: 0 0 30px rgb(134, 154, 182);
+}
+
+div.image-container img {
+    width:100%;
+    height:auto;
+}
+div.description {
+    padding:15px;
+    text-align: center;
+}
+
+*{
+    box-sizing:border-box;
+    -webkit-box-sizin:border-box;
+    -moz-box-sizing:border-box;
+}
+
+.responsive {
+    width: 30%;
+    margin: 1.66%;
+    float:left;
+}
