@@ -1,0 +1,3 @@
+# homework_july_12
+
+THİS HOMEWORK IS DONE FOR THE "IMAGE GALLERY" 
